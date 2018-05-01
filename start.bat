@@ -1,0 +1,3 @@
+python img_interpolation.py
+set /p DUMMY=Hit ENTER to continue...
+
